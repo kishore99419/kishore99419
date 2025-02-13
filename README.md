@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @kishore
-- 👀 I’m interested in bug reporting
-- 🌱 I’m currently learning network security
-- 📫 How to reach me kishaneraj@gmail.com
+# 👋 Hi, I’m Kishore Shyam Raj!  
 
-<!---
-kishore99419/kishore99419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests  
+- Network security and cybersecurity  
+- Python programming and data processing  
+- Machine learning and SQL  
+
+## 🌱 Currently Learning  
+- Network security fundamentals  
+- Ethical hacking and penetration testing  
+
+## 🔥 Projects  
+- **FIREWATCH**: An intelligent fire detection and notification system using Python and XML messaging. It analyzes CCTV footage for fire-related patterns and alerts users in real-time.  
+
+## 📂 Skills  
+- Python (Data processing, CSV/Excel handling)  
+- SQLite and SQL database management  
+- Static web development  
+- Machine learning basics  
+
+## 📫 How to Reach Me  
+- Email: kishaneraj@gmail.com  
